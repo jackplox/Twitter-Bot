@@ -6,7 +6,7 @@ CONSUMER_SECRET = ''
 ACCESS_KEY = ''
 ACCESS_SECRET = ''
 
-
+# THIS IS A WORK IN PROGRESS...
 #  Variables for setting authorization and receiving api
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
